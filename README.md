@@ -15,3 +15,14 @@ https://github.com/DtjiSoftwareDeveloper/Temperature-Converter/tree/main/code.
 
 Once you run the application, a Graphical User Interface (GUI) window with a text field to enter the value of the temperature unit
 you want to convert from and the value of the temperature unit you want to convert to together with the button "CONVERT" will be shown.
+
+![Getting Started](https://github.com/DtjiSoftwareDeveloper/Temperature-Converter/blob/main/images/Getting%20Started.png)
+
+You can choose to convert among CELCIUS, FAHRENHEIT, KELVIN, RANKINE, and REAUMUR. Below shows what appears when you click any of the 
+combo boxes (either the one next to "Converting from:" text or the one next to "Converting to:" text.
+
+![Choose Temperature Unit](https://github.com/DtjiSoftwareDeveloper/Temperature-Converter/blob/main/images/Choose%20Temperature%20Unit.png)
+
+Below shows an example of converting 50 degrees Celcius to Fahrenheit.
+
+![Conversion Example](https://github.com/DtjiSoftwareDeveloper/Temperature-Converter/blob/main/images/Conversion%20Example.png)
